@@ -11,6 +11,7 @@ $ git clone https://github.com/csoftware-arigpt/freesms.git
 $ cd freesms
 ```
 Install dependencies: 
+
 ` $ pip3 install requests `
 
 ## How to use
