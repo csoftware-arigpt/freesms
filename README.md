@@ -20,5 +20,5 @@ Just open file
 ```
 $ python3 main.py
 ```
-
+## License
 Licensed with MIT License, see LICENCE for more information
