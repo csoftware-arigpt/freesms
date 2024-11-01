@@ -12,7 +12,7 @@ $ cd freesms
 ```
 Install dependencies: 
 
-` $ pip3 install requests `
+` $ pip3 install requests aiohttp asyncio `
 
 ## How to use
 Just open file
